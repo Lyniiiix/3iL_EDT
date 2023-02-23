@@ -1,0 +1,23 @@
+{
+  "name": "3il_edt",
+  "version": "0.1.0",
+  "description": "retrieve schedules from EDT 3iL",
+  "main": "./lib/index.js",
+  "types": "./lib/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ali CAN",
+  "license": "MIT",
+  "files": [
+    "lib/**/*"
+  ],
+  "devDependencies": {
+    "@types/node-fetch": "^2.6.2",
+    "typescript": "^4.9.5"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "node-fetch": "^1.7.3"
+  }
+}

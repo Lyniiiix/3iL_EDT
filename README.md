@@ -1,4 +1,4 @@
-# 3iL EDT
+# [depreciated] 3iL EDT
 This tool allow you to retrieve schedules of 3iL EDT.
 
 The project consists of representing the timetable of a school, 3iL Ingénieurs, using objects that contain information about the courses and classrooms for each day of the week. The data is stored in a structured and easily accessible format, making it easy to integrate into your development projects.
